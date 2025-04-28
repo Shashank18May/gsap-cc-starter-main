@@ -8,7 +8,7 @@ const GsapFromTo = () => {
       {
         x: 0,
         rotation: 0,
-        borderRadius: "0%",
+        borderRadius: "5%",
       },
       {
         x: 250,
